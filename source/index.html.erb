@@ -1,0 +1,72 @@
+<main class="container">
+  <div class="row">
+    <div class="four columns">
+      <%= image_tag 'me.jpg', class: 'u-max-full-width' %>
+    </div>
+    <div class="twelve columns name-container">
+      <h1>Matt Condon</h1>
+    </div>
+  </div>
+  <nav class="row">
+    <div class="column link-row">
+      <ul>
+        <li>Solutions Architect</li>
+        <li>Software Engineer</li>
+        <li>Hacker of Things</li>
+      </ul>
+      <ul>
+        <li>
+          <%= mail_to 'm@cond.in' %>
+        </li>
+        <li>
+          <%= link_to 'github.com/Shrugs', 'https://github.com/Shrugs' %>
+        </li>
+        <li>
+          <%= link_to 'twitter.com/mattgcondon', 'https://twitter.com/mattgcondon' %>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <%= link_to 'blog.mat.tc', 'https://blog.mat.tc' %>
+        </li>
+        <li>
+          <%= link_to 'medium.com/@mattcondon', 'https://medium.com/@mattcondon' %>
+        </li>
+        <li>
+          <%= link_to 'resume.pdf', 'resume.pdf' %>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="row">
+    <div class="column">
+      <h2>Projects</h2>
+    </div>
+  </div>
+
+  <% data.projects.each do |k, projects| %>
+    <% projects.each_slice(3) do |projectSet| %>
+      <div class="row">
+        <% projectSet.each do |project| %>
+          <figure class="four columns">
+            <% link_to project.link do %>
+              <%= image_tag project.img, class: 'u-max-full-width' %>
+            <% end %>
+            <figcaption>
+              <h3><%= project.title %></h3>
+              <p><%= project.desc %></p>
+              <% if project.extra %>
+                <ul class="inline">
+                  <% project.extra.each do |extra| %>
+                    <li><%= link_to extra.name, extra.link %></li>
+                  <% end %>
+                </ul>
+              <% end %>
+            </figcaption>
+          </figure>
+        <% end %>
+      </div>
+    <% end %>
+  <% end %>
+</main>

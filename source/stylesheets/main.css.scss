@@ -1,0 +1,68 @@
+$margin: 5rem;
+$primary: #FFAFB9;
+$background: rgb(248, 255, 248);
+$secondary: #FFBDA6;
+$text: #998F8C;
+
+h1 {
+  margin-bottom: 0;
+}
+
+body {
+  background-color: $background;
+  color: $text;
+}
+
+img {
+  border-color: $primary;
+}
+
+a {
+  color: $secondary;
+}
+
+.container {
+  margin-top: $margin;
+  margin-bottom: $margin;
+}
+
+.link-row {
+  margin-top: $margin;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  white-space: nowrap;
+
+  > * {
+    width: 100%;
+
+    /* Larger than tablet */
+    @media (min-width: 750px) {
+      width: 33%;
+    }
+  }
+}
+
+.name-container.name-container {
+  /* Larger than tablet */
+  @media (min-width: 750px) {
+    width: 65.3333333333%;  // .eight.columns
+    margin-left: 4%;
+  }
+}
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}

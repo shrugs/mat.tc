@@ -1,0 +1,48 @@
+$mono: 'Fira Mono', monospace;
+
+img {
+  border: 10px solid black;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+ul, ol {
+  font-family: $mono;
+}
+
+ul, ol {
+  padding: 0;
+
+  li {
+    list-style-type: none;
+
+    &:before {
+      content: "// ";
+    }
+  }
+
+  &.inline {
+    li {
+      display: inline;
+    }
+  }
+}
+
+/* Larger than mobile */
+@media (min-width: 400px) {}
+
+/* Larger than phablet */
+@media (min-width: 550px) {}
+
+/* Larger than tablet */
+@media (min-width: 750px) {}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}

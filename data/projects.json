@@ -1,0 +1,375 @@
+{
+    "exp": [
+      {
+        "title": "Skillshare",
+        "desc": "I led the SEO-focused growth engineering efforts, helped migrate to and establish the new Kubernetes-backed infrastructure (0-downtime deploys, centralized logging, etc), built a teacher-facing analytics dashboard, and helped minimize tech debt and establish best practices.",
+        "img": "skillshare.jpg",
+        "link": "https:\/\/skillshare.com",
+        "extra": [
+          {
+            "name": "Skillshare",
+            "link": "https:\/\/skillshare.com"
+          }
+        ]
+      },
+      {
+        "title": "Google '15",
+        "desc": "At Google I worked on Swift quickstarts for developers, wrote software for a bullet time rig made of Nexus 6 phones, and introduced Apps Script to the wonderful world of modern web development.",
+        "img": "google.jpg",
+        "link": "https:\/\/google.com",
+        "extra": [
+          {
+            "name": "Google",
+            "link": "https:\/\/google.com"
+          }
+        ]
+      },
+      {
+        "title": "HackNY Mentor '15",
+        "desc": "I mentored a group of 34 hackNY Fellows as they thrived in the NY tech scene. We spent the summer visiting startup offices, exploring the city, and hanging out.",
+        "img": "hackny.png",
+        "link": "http:\/\/hackny.org",
+        "extra": [
+          {
+            "name": "HackNY Website",
+            "link": "http:\/\/hackny.org"
+          }
+        ]
+      },
+      {
+        "title": "IFTTT '15",
+        "desc": "At IFTTT I worked on the platform team, building the partner-facing interface, including some baller analytics and metrics. I also shipped Two Factor Auth and tons of minor fixes.",
+        "img": "ifttt.jpg",
+        "link": "https:\/\/ifttt.com",
+        "extra": [
+          {
+            "name": "IFTTT",
+            "link": "https:\/\/ifttt.com"
+          },
+          {
+            "name": "Proof that I'm the #totalPackage",
+            "link": "https:\/\/twitter.com\/TodayAtIFTTT\/status\/563769398196842496"
+          }
+        ]
+      },
+      {
+        "title": "HackNY Fellow '14",
+        "desc": "At HackNY, I lived and worked in New York for a summer, hanging out with an amazing set of people and mentors. It was a fantastic experience, and I'd do it again in a heartbeat.",
+        "img": "hackny.png",
+        "extra": [
+          {
+            "name": "HackNY Website",
+            "link": "http:\/\/hackny.org"
+          }
+        ]
+      },
+      {
+        "title": "Magnetic '14",
+        "desc": "At Magnetic, another intern and I built out a new method of gleaning context from pageviews. Relevant information is automatically harvested when a user loads the page, massively increasing the amount and quality of information Magnetic can use to do intelligent ad bidding.",
+        "img": "magnetic.png",
+        "link": "http:\/\/magnetic.com",
+        "extra": [
+          {
+            "name": "Magnetic.com",
+            "link": "http:\/\/magnetic.com"
+          }
+        ]
+      },
+      {
+        "title": "Grooveshark '13",
+        "desc": "At Grooveshark, I managed and developed a user-friendly analytics dashboard. I also learned a lot about team programming and project management by taking over an existing project and working with experienced developers.",
+        "img": "grooveshark.png",
+        "link": "http:\/\/groveshark.com",
+        "extra": [
+          {
+            "name": "Grooveshark.com",
+            "link": "http:\/\/grooveshark.com"
+          }
+        ]
+      }
+    ],
+    "webdev": [
+      {
+        "title": "Kickback",
+        "desc": "Effortless, fire-and-forget, Amazon refunds when prices change. Kickback tracks everything you buy from Amazon and automagically gets your refunds when the price drops.",
+        "img": "kickback.jpg",
+        "link": "http:\/\/devpost.com\/software\/kickback",
+        "extra": [
+          {
+            "name": "devpost",
+            "link": "http:\/\/devpost.com\/software\/kickback"
+          }
+        ]
+      },
+      {
+        "title": "Fivestar",
+        "desc": "Fivestar gives the user the best Amazon product available, broken down by budget. It was featured on TechCrunch.",
+        "img": "fivestar.jpg",
+        "link": "http:\/\/fivestar.io",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/FiveStar"
+          },
+          {
+            "name": "fivestar",
+            "link": "http:\/\/fivestar.io"
+          },
+          {
+            "name": "TechCrunch Article",
+            "link": "http:\/\/techcrunch.com\/2014\/06\/03\/fivestar-finds-the-best-products-on-amazon-from-any-category-on-any-budget\/"
+          }
+        ]
+      },
+      {
+        "title": "Raffie",
+        "desc": "Raffie was a Venmo-based bot that conducted raffles. Participants could send @raffle a dollar and be entered into the raffle. When 20 people entered, one person would get $20! It was shut down in 3 hours, thanks Venmo.",
+        "img": "raffle.jpg",
+        "link": "https:\/\/twitter.com\/rafflebot",
+        "extra": [
+          {
+            "name": "Raffle on Twitter",
+            "link": "https:\/\/twitter.com\/rafflebot"
+          }
+        ]
+      },
+      {
+        "title": "Grooveshark Analytics Dashboard",
+        "desc": "At Grooveshark, I managed and developed a user-friendly analytics dashboard. I also learned a lot about team programming and project management by taking over an existing project and working with experienced developers.",
+        "img": "gs_central_data.jpeg"
+      },
+      {
+        "title": "gslash",
+        "desc": "Chrome extension that adds \"cmd-\/\" as a shortcut to focus the main search box on arbitrary pages.",
+        "img": "gslash.png",
+        "link": "http:\/\/github.com\/Shrugs\/gslash",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "http:\/\/github.com\/Shrugs\/gslash"
+          }
+        ]
+      },
+      {
+        "title": "Coinmap.org Contribution",
+        "desc": "I added multi-currency support to Coinmap.",
+        "img": "coinmap.org.png",
+        "link": "http:\/\/coinmap.org",
+        "extra": [
+          {
+            "name": "Coinmap.org Website",
+            "link": "http:\/\/coinmap.org"
+          }
+        ]
+      }
+    ],
+    "prog": [
+      {
+        "title": "asdfghjkl",
+        "desc": "asdfghjkl is the future of computer input devices; it turns your keyboard into a trackpad. Yea, really.",
+        "img": "asdfghjkl.jpg",
+        "link": "http:\/\/devpost.com\/software\/asdfghjkl",
+        "extra": [
+          {
+            "name": "asdfghjkl on devpost",
+            "link": "http:\/\/devpost.com\/software\/asdfghjkl"
+          },
+          {
+            "name": "The Website",
+            "link": "http:\/\/asdfghjkl.co"
+          }
+        ]
+      },
+      {
+        "title": "Askey",
+        "desc": "Askey is an iOS keyboard that turns doodles into ASCII-text drawings. It works most of the time. Give it a download if you want your friends to think you spent a lot of time drawing out some incredible ASCII art for them.",
+        "img": "askey.jpg",
+        "link": "http:\/\/askeyapp.com",
+        "extra": [
+          {
+            "name": "Askey on the App Store",
+            "link": "http:\/\/itunes.apple.com\/app\/id950935054?at=1001lEm"
+          },
+          {
+            "name": "The Website",
+            "link": "http:\/\/askeyapp.com"
+          }
+        ]
+      },
+      {
+        "title": "Bitter",
+        "desc": "Bitter (\"One Bit Twitter\") is like Reddit for the physical world. Upvote and downvote arbitrary locations on planet earth. Won sponsor prizes at AngelHack Manhattan.",
+        "img": "bitter.jpg",
+        "link": "http:\/\/bitr.me",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "http:\/\/github.com\/Shrugs\/bitter"
+          },
+          {
+            "name": "The Website",
+            "link": "http:\/\/bitr.me"
+          }
+        ]
+      },
+      {
+        "title": "skiff",
+        "desc": "skiff is a DigitalOcean Python library for their v2 API. DigitalOcean sent me a t-shirt and card as thanks.",
+        "img": "skiff.jpg",
+        "link": "http:\/\/github.com\/Shrugs\/skiff",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "http:\/\/github.com\/Shrugs\/skiff"
+          },
+          {
+            "name": "skiff on PyPi",
+            "link": "https:\/\/pypi.python.org\/pypi\/skiff\/"
+          }
+        ]
+      },
+      {
+        "title": "MCBouncyButton",
+        "desc": "A delightfully bouncy button with 91+ stars on GitHub.",
+        "img": "mcbouncybutton.jpg",
+        "link": "https:\/\/github.com\/Shrugs\/MCBouncyButton",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/MCBouncyButton"
+          }
+        ]
+      },
+      {
+        "title": "Jump - Leap Motion on iOS",
+        "desc": "Jump lets iOS developers integrate Leap Motion gestures into their app with a few lines of code. Users can use their Leap to control a supporting app or even their entire OS UI. Won second place at GeauxHack 2014!",
+        "img": "jump.png",
+        "link": "https:\/\/www.youtube.com\/watch?v=ZHv9llwy3Mo",
+        "extra": [
+          {
+            "name": "YouTube Demo",
+            "link": "https:\/\/www.youtube.com\/watch?v=ZHv9llwy3Mo"
+          },
+          {
+            "name": "devpost Link",
+            "link": "http:\/\/devpost.com\/software\/jump"
+          },
+          {
+            "name": "Jump Library on GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/Jump"
+          }
+        ]
+      },
+      {
+        "title": "Express on Rails, AKA #2TRAINZ",
+        "desc": "At hackNY Fall 2014, I attached an Intel Edison to a model train that navigated between rooms, collecting environmental sensor data. We then piped the data to a server to be displayed in real time on a web app. To be clear, the server is in Express and the train is on rails.",
+        "img": "2trainz.jpg",
+        "link": "https:\/\/twitter.com\/hackNY\/status\/523896200127594496",
+        "extra": [
+          {
+            "name": "Express on Rails via @hackNY",
+            "link": "https:\/\/twitter.com\/hackNY\/status\/523896200127594496"
+          }
+        ]
+      },
+      {
+        "title": "Googiri",
+        "desc": "This Cydia tweak (a modification for jailbroken iOS devices) allows users to use Google Now's spectacular speech-to-text service with Siri's 1st party integration features.",
+        "img": "ios_Googiri.jpeg",
+        "link": "http:\/\/www.idownloadblog.com\/2013\/05\/15\/googiri\/",
+        "extra": [
+          {
+            "name": "iDownloadBlog Coverage",
+            "link": "http:\/\/www.idownloadblog.com\/2013\/05\/15\/googiri\/"
+          },
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/Googiri"
+          }
+        ]
+      },
+      {
+        "title": "Make it Rain Venmo",
+        "desc": "Make it Rain Venmo lets the user simulate \"Making it Rain\" when sending money to friends via Venmo. You, too, can be the baller you always wished you were!",
+        "img": "MiRV.jpg",
+        "link": "https:\/\/www.youtube.com\/watch?v=rouSxCqLrnE",
+        "extra": [
+          {
+            "name": "YouTube Demo",
+            "link": "https:\/\/www.youtube.com\/watch?v=rouSxCqLrnE"
+          },
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/MiRV-MakeItRainVenmo"
+          }
+        ]
+      },
+      {
+        "title": "stacks - iOS Tweak in the Spirit of OSX",
+        "desc": "stacks is a Cydia tweak that allows users to place stacks of apps on top of another one in the dock (shown via a quick swipe up), much like OS X.",
+        "img": "ios_stacks.jpeg",
+        "link": "https:\/\/github.com\/Shrugs\/stacks",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/stacks"
+          }
+        ]
+      },
+      {
+        "title": "MessageSwiper",
+        "desc": "This Cydia tweak (a modification for jailbroken iOS devices) allows users to quickly swipe between message threads in their messaging applications.",
+        "img": "ios_MessageSwiper.jpeg",
+        "link": "http:\/\/github.com\/Shrugs\/MessageSwiper7",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "http:\/\/github.com\/Shrugs\/MessageSwiper7"
+          }
+        ]
+      }
+    ],
+    "engr": [
+      {
+        "title": "Home Automation Proof of Concept",
+        "desc": "I implemented a naive version of Jarvis from Iron Man. You communicate with him through computers, smartwatches, and phones over HTTP and the AI will intelligently route commands to wireless nodes, instructing them to flip switches or turn on motors. It has a party mode, obviously.",
+        "img": "jarvis.jpg",
+        "link": "https:\/\/github.com\/Shrugs\/jarvis",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/jarvis"
+          }
+        ]
+      },
+      {
+        "title": "Mesh Network Over RF",
+        "desc": "For my Home Automation implementation, I built a mesh network over RF that used multiple nodes to pass messages between leaves and the root node. The node pictured switches 120VAC for a light bulb.",
+        "img": "jarvis_node.jpg",
+        "link": "https:\/\/www.youtube.com\/watch?v=JV4pN8ohvz4",
+        "extra": [
+          {
+            "name": "The Mesh Network in Action",
+            "link": "https:\/\/www.youtube.com\/watch?v=JV4pN8ohvz4"
+          }
+        ]
+      },
+      {
+        "title": "Autonomous, Maze-Solving Arduino Bot",
+        "desc": "Fully autonomous Arduino path-finding robot using Depth-First-Search. The build includes a dual H-bridge motor controller setup, along with a custom, recursive path-finding algorithm. The bot is able to solve any maze of infinite size, given infinite time, memory, and energy. So maybe not every maze. But a good many of them, for sure.",
+        "img": "ai_arduino.jpeg",
+        "link": "https:\/\/github.com\/Shrugs\/autoTankMain\/blob\/master\/stackArrayTest.ino",
+        "extra": [
+          {
+            "name": "GitHub",
+            "link": "https:\/\/github.com\/Shrugs\/autoTankMain\/blob\/master\/stackArrayTest.ino"
+          }
+        ]
+      },
+      {
+        "title": "Billboard Top Hat",
+        "desc": "This is a top hat equipped with 150 individual RGB LEDs which react to music in the environment. Uses a Fourier Transform algorithm to identify bass frequencies and flashes accordingly. Uses custom display driver to display animations.",
+        "img": "top_hat.jpeg"
+      }
+    ]
+  }
