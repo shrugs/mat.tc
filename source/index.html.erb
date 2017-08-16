@@ -39,32 +39,40 @@
     </div>
   </nav>
 
-  <div class="row">
-    <div class="column">
-      <h2>Projects</h2>
+  <% data.projects.each do |title, projects| %>
+    <div class="row">
+      <div class="column">
+        <h2><%= title %></h2>
+      </div>
     </div>
-  </div>
-
-  <% data.projects.each do |k, projects| %>
     <% projects.each_slice(3) do |projectSet| %>
-      <div class="row">
+      <div class="row hidden-sm-flex">
         <% projectSet.each do |project| %>
-          <figure class="four columns">
+          <div class="col image-col project-col">
             <% link_to project.link do %>
               <%= image_tag project.img, class: 'u-max-full-width' %>
             <% end %>
-            <figcaption>
-              <h3><%= project.title %></h3>
-              <p><%= project.desc %></p>
-              <% if project.extra %>
-                <ul class="inline">
-                  <% project.extra.each do |extra| %>
-                    <li><%= link_to extra.name, extra.link %></li>
-                  <% end %>
-                </ul>
+          </div>
+        <% end %>
+      </div>
+      <div class="row">
+        <% projectSet.each do |project| %>
+          <div class="col project-col">
+            <div class="image-col visible-sm">
+              <% link_to project.link do %>
+                <%= image_tag project.img, class: 'u-max-full-width' %>
               <% end %>
-            </figcaption>
-          </figure>
+            </div>
+            <h3><%= project.title %></h3>
+            <p><%= project.desc %></p>
+            <% if project.extra %>
+              <ul class="inline">
+                <% project.extra.each do |extra| %>
+                  <li><%= link_to extra.name, extra.link %></li>
+                <% end %>
+              </ul>
+            <% end %>
+          </div>
         <% end %>
       </div>
     <% end %>

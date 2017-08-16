@@ -1,5 +1,5 @@
 {
-    "exp": [
+    "Experience": [
       {
         "title": "Skillshare",
         "desc": "I led the SEO-focused growth engineering efforts, helped migrate to and establish the new Kubernetes-backed infrastructure (0-downtime deploys, centralized logging, etc), built a teacher-facing analytics dashboard, and helped minimize tech debt and establish best practices.",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "Google '15",
+        "title": "Google",
         "desc": "At Google I worked on Swift quickstarts for developers, wrote software for a bullet time rig made of Nexus 6 phones, and introduced Apps Script to the wonderful world of modern web development.",
         "img": "google.jpg",
         "link": "https:\/\/google.com",
@@ -25,7 +25,7 @@
         ]
       },
       {
-        "title": "HackNY Mentor '15",
+        "title": "HackNY Mentor",
         "desc": "I mentored a group of 34 hackNY Fellows as they thrived in the NY tech scene. We spent the summer visiting startup offices, exploring the city, and hanging out.",
         "img": "hackny.png",
         "link": "http:\/\/hackny.org",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "title": "IFTTT '15",
+        "title": "IFTTT",
         "desc": "At IFTTT I worked on the platform team, building the partner-facing interface, including some baller analytics and metrics. I also shipped Two Factor Auth and tons of minor fixes.",
         "img": "ifttt.jpg",
         "link": "https:\/\/ifttt.com",
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "title": "HackNY Fellow '14",
+        "title": "HackNY Fellow",
         "desc": "At HackNY, I lived and worked in New York for a summer, hanging out with an amazing set of people and mentors. It was a fantastic experience, and I'd do it again in a heartbeat.",
         "img": "hackny.png",
         "extra": [
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "title": "Magnetic '14",
+        "title": "Magnetic",
         "desc": "At Magnetic, another intern and I built out a new method of gleaning context from pageviews. Relevant information is automatically harvested when a user loads the page, massively increasing the amount and quality of information Magnetic can use to do intelligent ad bidding.",
         "img": "magnetic.png",
         "link": "http:\/\/magnetic.com",
@@ -76,7 +76,7 @@
         ]
       },
       {
-        "title": "Grooveshark '13",
+        "title": "Grooveshark",
         "desc": "At Grooveshark, I managed and developed a user-friendly analytics dashboard. I also learned a lot about team programming and project management by taking over an existing project and working with experienced developers.",
         "img": "grooveshark.png",
         "link": "http:\/\/groveshark.com",
@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "webdev": [
+    "Projects": [
       {
         "title": "Kickback",
         "desc": "Effortless, fire-and-forget, Amazon refunds when prices change. Kickback tracks everything you buy from Amazon and automagically gets your refunds when the price drops.",
@@ -161,9 +161,7 @@
             "link": "http:\/\/coinmap.org"
           }
         ]
-      }
-    ],
-    "prog": [
+      },
       {
         "title": "asdfghjkl",
         "desc": "asdfghjkl is the future of computer input devices; it turns your keyboard into a trackpad. Yea, really.",
@@ -205,10 +203,6 @@
           {
             "name": "GitHub",
             "link": "http:\/\/github.com\/Shrugs\/bitter"
-          },
-          {
-            "name": "The Website",
-            "link": "http:\/\/bitr.me"
           }
         ]
       },
@@ -327,9 +321,7 @@
             "link": "http:\/\/github.com\/Shrugs\/MessageSwiper7"
           }
         ]
-      }
-    ],
-    "engr": [
+      },
       {
         "title": "Home Automation Proof of Concept",
         "desc": "I implemented a naive version of Jarvis from Iron Man. You communicate with him through computers, smartwatches, and phones over HTTP and the AI will intelligently route commands to wireless nodes, instructing them to flip switches or turn on motors. It has a party mode, obviously.",

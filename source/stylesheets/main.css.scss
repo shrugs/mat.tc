@@ -4,6 +4,17 @@ $background: rgb(248, 255, 248);
 $secondary: #FFBDA6;
 $text: #998F8C;
 
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
 h1 {
   margin-bottom: 0;
 }
@@ -19,6 +30,10 @@ img {
 
 a {
   color: $secondary;
+}
+
+.image-col {
+  align-items: center;
 }
 
 .container {
@@ -45,10 +60,41 @@ a {
 }
 
 .name-container.name-container {
+
   /* Larger than tablet */
   @media (min-width: 750px) {
     width: 65.3333333333%;  // .eight.columns
     margin-left: 4%;
+  }
+}
+
+.project-col {
+  width: 100%;
+
+  /* Larger than tablet */
+  @media (min-width: 750px) {
+    width: 30.6666666667%;
+    margin-left: 4%;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+.hidden-sm-flex {
+  display: none;
+
+  /* Larger than phablet */
+  @media (min-width: 550px) {
+    display: flex;
+  }
+}
+
+.visible-sm {
+  /* Larger than phablet */
+  @media (min-width: 550px) {
+    display: none;
   }
 }
 
