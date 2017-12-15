@@ -1,5 +1,5 @@
 {
-    "Comedy": [
+    "Comedy Projects": [
       {
         "title": "The Steak Network",
         "desc": "The Steak Network is “Instagram for steaks” using the Proof of Steak protocol which can be used to incentivize and curate a decentralized registry. I raised $15k in donations to second-layer Ethereum projects.",
@@ -194,7 +194,7 @@
         ]
       }
     ],
-    "Projects": [
+    "Sampled Projects": [
       {
         "title": "Kickback",
         "desc": "Effortless, fire-and-forget, Amazon refunds when prices change. Kickback tracks everything you buy from Amazon and automagically gets your refunds when the price drops.",
