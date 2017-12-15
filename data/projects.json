@@ -1,5 +1,111 @@
 {
-    "Experience": [
+    "Comedy": [
+      {
+        "title": "The Steak Network",
+        "desc": "The Steak Network is “Instagram for steaks” using the Proof of Steak protocol which can be used to incentivize and curate a decentralized registry. I raised $15k in donations to second-layer Ethereum projects.",
+        "img": "steak-network.png",
+        "link": "https:\/\/steak.network",
+        "extra": [
+          {
+            "name": "The Steak Network",
+            "link": "https:\/\/steak.network"
+          },
+          {
+            "name": "Announcement Post with TrueBit",
+            "link": "https:\/\/medium.com\/truebit\/announcing-the-steak-network-c3d44290d53d"
+          },
+          {
+            "name": "Proof of Steak Whitepaper",
+            "link": "https:\/\/steak.network\/assets\/steak-network_whitepaper.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Send Crypto People Tulips",
+        "desc": "Automatically text your crypto friends pictures of tulips when the bubble bursts. Relish in the fact that You Were Right™",
+        "img": "tulips.png",
+        "link": "https:\/\/sendcryptopeopletulips.com",
+        "extra": [
+          {
+            "name": "Send Crypto People Tulips",
+            "link": "https:\/\/sendcryptopeopletulips.com"
+          }
+        ]
+      },
+      {
+        "title": "We Know Art",
+        "desc": "An audio tour app for the MET where comedians grossly misinterpret art.",
+        "img": "weknowart.png",
+        "link": "https:\/\/itunes.apple.com\/us\/app\/we-know-art\/id1234066611",
+        "extra": [
+          {
+            "name": "We Know Art on the App Store",
+            "link": "https:\/\/itunes.apple.com\/us\/app\/we-know-art\/id1234066611"
+          }
+        ]
+      },
+      {
+        "title": "Settl",
+        "desc": "It's like Tinder, but perfectly suited to your millennial lifestyle. settl matches you with everyone in the app. Try to swipe left and it won't let you. If you don't immediately start chatting with them, it'll turn on a bot to chat for you. It'll then find an available time in your calendar and schedule your date because it knows you're too sad to not go.",
+        "img": "settl.png",
+        "link": "http:\/\/www.comedyhackday.org\/demosmade\/2015\/8\/27\/settl",
+        "extra": [
+          {
+            "name": "Comedy Hack Day Blog",
+            "link": "http:\/\/www.comedyhackday.org\/demosmade\/2015\/8\/27\/settl"
+          },
+          {
+            "name": "Comedy Hack Day Presentation",
+            "link": "https:\/\/www.youtube.com\/watch?v=AQPF_mcLKgo"
+          }
+        ]
+      },
+      {
+        "title": "How Many Rocks Are There And Where Are They",
+        "desc": "Take part in a massive multiplayer mobile experience designed to figure out how many rocks there are and where are they. It's Instagram for rocks, backed by real machine learning.",
+        "img": "howmanyrocks.png",
+        "link": "http:\/\/www.howmany.rocks\/",
+        "extra": [
+          {
+            "name": "How Many Rocks Website",
+            "link": "http:\/\/www.howmany.rocks\/"
+          },
+          {
+            "name": "App Store",
+            "link": "https:\/\/itunes.apple.com\/us\/app\/how-many-rocks-are-there\/id1155989848"
+          }
+        ]
+      },
+      {
+        "title": "asdfghjkl",
+        "desc": "asdfghjkl is the future of computer input devices; it turns your keyboard into a trackpad. Yea, really.",
+        "img": "asdfghjkl.jpg",
+        "link": "http:\/\/devpost.com\/software\/asdfghjkl",
+        "extra": [
+          {
+            "name": "asdfghjkl on devpost",
+            "link": "http:\/\/devpost.com\/software\/asdfghjkl"
+          },
+          {
+            "name": "The Website",
+            "link": "http:\/\/asdfghjkl.co"
+          }
+        ]
+      },
+      {
+        "title": "\/partyparrot",
+        "desc": "Produce startlingly annoying full-screen words made out of partyparrot emojis in slack.",
+        "img": "partyparrot.png",
+        "link": "https:\/\/github.com\/Shrugs\/partyparrot",
+        "extra": [
+          {
+            "name": "partyparrot on github",
+            "link": "https:\/\/github.com\/Shrugs\/partyparrot"
+          }
+        ]
+      }
+    ],
+    "Professional Experience": [
       {
         "title": "Skillshare",
         "desc": "I led the SEO-focused growth engineering efforts, helped migrate to and establish the new Kubernetes-backed infrastructure (0-downtime deploys, centralized logging, etc), built a teacher-facing analytics dashboard, and helped minimize tech debt and establish best practices.",
@@ -84,100 +190,6 @@
           {
             "name": "Grooveshark.com",
             "link": "http:\/\/grooveshark.com"
-          }
-        ]
-      }
-    ],
-    "Comedy": [
-      {
-        "title": "The Steak Network",
-        "desc": "The Steak Network is “Instagram for steaks” using the Proof of Steak protocol which can be used to incentivize and curate a decentralized registry. I raised $15k in donations to second-layer Ethereum projects.",
-        "img": "steak-network.png",
-        "link": "https:\/\/steak.network",
-        "extra": [
-          {
-            "name": "The Steak Network",
-            "link": "https:\/\/steak.network"
-          },
-          {
-            "name": "Announcement Post with TrueBit",
-            "link": "https:\/\/medium.com\/truebit\/announcing-the-steak-network-c3d44290d53d"
-          },
-          {
-            "name": "Proof of Steak Whitepaper",
-            "link": "https:\/\/steak.network\/assets\/steak-network_whitepaper.pdf"
-          }
-        ]
-      },
-      {
-        "title": "We Know Art",
-        "desc": "An audio tour app for the MET where comedians grossly misinterpret art.",
-        "img": "weknowart.png",
-        "link": "https:\/\/itunes.apple.com\/us\/app\/we-know-art\/id1234066611",
-        "extra": [
-          {
-            "name": "We Know Art on the App Store",
-            "link": "https:\/\/itunes.apple.com\/us\/app\/we-know-art\/id1234066611"
-          }
-        ]
-      },
-      {
-        "title": "Settl",
-        "desc": "It's like Tinder, but perfectly suited to your millennial lifestyle. settl matches you with everyone in the app. Try to swipe left and it won't let you. If you don't immediately start chatting with them, it'll turn on a bot to chat for you. It'll then find an available time in your calendar and schedule your date because it knows you're too sad to not go.",
-        "img": "settl.png",
-        "link": "http:\/\/www.comedyhackday.org\/demosmade\/2015\/8\/27\/settl",
-        "extra": [
-          {
-            "name": "Comedy Hack Day Blog",
-            "link": "http:\/\/www.comedyhackday.org\/demosmade\/2015\/8\/27\/settl"
-          },
-          {
-            "name": "Comedy Hack Day Presentation",
-            "link": "https:\/\/www.youtube.com\/watch?v=AQPF_mcLKgo"
-          }
-        ]
-      },
-      {
-        "title": "How Many Rocks Are There And Where Are They",
-        "desc": "Take part in a massive multiplayer mobile experience designed to figure out how many rocks there are and where are they. It's Instagram for rocks, backed by real machine learning.",
-        "img": "howmanyrocks.png",
-        "link": "http:\/\/www.howmany.rocks\/",
-        "extra": [
-          {
-            "name": "How Many Rocks Website",
-            "link": "http:\/\/www.howmany.rocks\/"
-          },
-          {
-            "name": "App Store",
-            "link": "https:\/\/itunes.apple.com\/us\/app\/how-many-rocks-are-there\/id1155989848"
-          }
-        ]
-      },
-      {
-        "title": "asdfghjkl",
-        "desc": "asdfghjkl is the future of computer input devices; it turns your keyboard into a trackpad. Yea, really.",
-        "img": "asdfghjkl.jpg",
-        "link": "http:\/\/devpost.com\/software\/asdfghjkl",
-        "extra": [
-          {
-            "name": "asdfghjkl on devpost",
-            "link": "http:\/\/devpost.com\/software\/asdfghjkl"
-          },
-          {
-            "name": "The Website",
-            "link": "http:\/\/asdfghjkl.co"
-          }
-        ]
-      },
-      {
-        "title": "\/partyparrot",
-        "desc": "Produce startlingly annoying full-screen words made out of partyparrot emojis in slack.",
-        "img": "partyparrot.png",
-        "link": "https:\/\/github.com\/Shrugs\/partyparrot",
-        "extra": [
-          {
-            "name": "partyparrot on github",
-            "link": "https:\/\/github.com\/Shrugs\/partyparrot"
           }
         ]
       }
