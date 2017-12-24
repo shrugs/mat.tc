@@ -29,6 +29,10 @@
           {
             "name": "Send Crypto People Tulips",
             "link": "https:\/\/sendcryptopeopletulips.com"
+          },
+          {
+            "name": "Neeraj liked it",
+            "link": "https:\/\/twitter.com\/NeerajKA\/status\/942282055735480320"
           }
         ]
       },
@@ -169,18 +173,18 @@
           }
         ]
       },
-      {
-        "title": "Magnetic",
-        "desc": "At Magnetic, another intern and I built out a new method of gleaning context from pageviews. Relevant information is automatically harvested when a user loads the page, massively increasing the amount and quality of information Magnetic can use to do intelligent ad bidding.",
-        "img": "magnetic.png",
-        "link": "http:\/\/magnetic.com",
-        "extra": [
-          {
-            "name": "Magnetic.com",
-            "link": "http:\/\/magnetic.com"
-          }
-        ]
-      },
+      // {
+      //   "title": "Magnetic",
+      //   "desc": "At Magnetic, another intern and I built out a new method of gleaning context from pageviews. Relevant information is automatically harvested when a user loads the page, massively increasing the amount and quality of information Magnetic can use to do intelligent ad bidding.",
+      //   "img": "magnetic.png",
+      //   "link": "http:\/\/magnetic.com",
+      //   "extra": [
+      //     {
+      //       "name": "Magnetic.com",
+      //       "link": "http:\/\/magnetic.com"
+      //     }
+      //   ]
+      // },
       {
         "title": "Grooveshark",
         "desc": "At Grooveshark, I managed and developed a user-friendly analytics dashboard. I also learned a lot about team programming and project management by taking over an existing project and working with experienced developers.",
@@ -195,6 +199,22 @@
       }
     ],
     "Sampled Projects": [
+      {
+        "title": "Merry Merkle Tree",
+        "desc": "We raised $65,000 in donations to Covenant House, a Toronto-based charity for homeless youth. I served as project manager and lead engineer for architecting an Ethereum-donation leaderboard, complete with IRL light-up Xmas (Merkle) Tree. We went from idea to execution within 5 days.",
+        "img": "merrymerkle.png",
+        "link": "https:\/\/merrymerkle.com",
+        "extra": [
+          {
+            "name": "Merry Merkle Website",
+            "link": "https:\/\/merrymerkle.com"
+          },
+          {
+            "name": "code on github",
+            "link": "https:\/\/github.com\/MerryMerkle"
+          }
+        ]
+      },
       {
         "title": "Kickback",
         "desc": "Effortless, fire-and-forget, Amazon refunds when prices change. Kickback tracks everything you buy from Amazon and automagically gets your refunds when the price drops.",

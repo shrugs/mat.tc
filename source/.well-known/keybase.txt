@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/shrugs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mat.tc
+  * I am shrugs (https://keybase.io/shrugs) on keybase.
+  * I have a public key with fingerprint 1403 E869 C9EC 81B4 024C  2074 2896 B685 28CB 015C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d9ab46f2fdc01c0fb25a7b2aa5f978be8f0e1d3474c70e9e874e84fda43b839a0a",
+      "fingerprint": "1403e869c9ec81b4024c20742896b68528cb015c",
+      "host": "keybase.io",
+      "key_id": "2896b68528cb015c",
+      "kid": "0101508ba3d6fada6b153e9f01adc6c250dba979b4e27adf1389cbd8b607b384657d0a",
+      "uid": "331bf7e367e38cf945d14dbb8a4aec19",
+      "username": "shrugs"
+    },
+    "service": {
+      "hostname": "mat.tc",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1513859621,
+  "expire_in": 157680000,
+  "prev": "b4a461364bb5ce13d434ff085137e828e02d98adb1a6320dd50e33bbca7bc782",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNpAnicbVJ9TJVVGL8kybxd7tiiIVS6vSQDxsf7/XF116gmLacDs10I3PWc9z0v
+9+Xj3su9LyABTUxZVMIdIFMwCmMyHQSCCQXBJAiQCRhETJ0zE+YaZVEIExm9L9P/
+OtvZ2fOc3+93fs/znMHATQajX2TtlRORY37pfmNXfXmG93de3FGEQZdUiFmKsCy0
+caBsCXlVe5YiYRYMJ0hcEgCkWZmUJREnRFyGJAM4SALAyALHQ8TLOCIkiuZokcOR
+gHiORjwtS4CmIE8JAAdYDCYrzgzkcXsUp6rJEjROIZ4VRAGJPAFpnKRFEudokhdY
+yPIMyYsQJxhRIzpcXp2hmYPAi+IUl5bTAvuGvf/BP/OthTgPASWxMpAACwmGQoKM
+E0ASWZFkcAkCgRMgjUgOSDJB8YIIJR6yOAcpnmYZTtrwnbchR1EElDlEsdrmRVmg
+GYmgJQh5QAMkEoIO9CKPE+QgDe11ePIyvFhJDKbl8hUR6W3V63h6nwPUOFX36va4
+VJfoytZyDlV1ey06Ry1066ACBO1P6XaoOCWtfxojH3m8isuJWQgNKaqKrkcwmntG
+YEkiBkNH3IoH2RUdwXAsj2tLfwfla5KQBjRLUCwNISMigpJoipZlnNf4HOJJHuGk
+JPBAggRgKW3uEoMjioJQ1MYtcjyJ6QXlOl26tuYTZOi1KhlOoOZ5EFYycDXd3+Bn
+NGx+/jn9YxmMW4Kefbe1oSBDw48zpQfXGn7Y23nqUKwl5bbc8RhdkpSUf3/bJkxY
+ru+zLqZVwgLlyw+Nn16bMkYtdK1Mb+2pD2mdmbCP91vGV6Mrzlb35fb5MtkA844U
+3Hf5tvfQyMLE1MknGR0j7dGvHviq6FH5w9ixGRsKK76y2vI4Ij4xyZ36ckHkpWGT
+qe6tn5amg61V67+HvRiVIxJxtSb679jAmGyh7e7Ao5WtyYEfzZnvtM8ZlqzJPdGJ
++SWVRVuGem59wAV304P+pa1zn7RELGb6g6XWqgjfjdy0+tcDLvy8u9OWIjWXv1s5
+U9LTNftNY5aw67s3+kOPzT9ptNkDxdWBb1N6IgrBfTyviSjnRtZTX4C2rnv7ye5J
+3+Xzysc71Qf/DFSuceGJBensgC3h/vBNx63Ng9Tg56f33KlrPEHt/sv6dWlqpOH6
+4YXOg/uSOrx9c6vxLxlPvTJ//kLjg4uLQblY7/KZ+dmx3oq0Wl9lS1zdWTy78m7o
+6eXAqYo9NyKPHa+NPf6HocMR4nyz6p1N7x3pCy0u6zcFXAuF97orGla78heLz5iL
+Ik6at68Ft7M3wXq9Z+gzX82auk208m9Pf98sPDy3P77NVGYaNb9Wf+BcU/ivSSHb
+lxLC91prospGJzMr2r5IrrGF23Y0jzqWd/3yZ2/A4YRhe/XRdTS7Yi6vG24K4FvD
+FidjxquP/geYKsKK
+=DXW2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shrugs
+
+==================================================================
