@@ -200,8 +200,8 @@
     ],
     "Sampled Projects": [
       {
-        "title": "Merry Merkle Tree",
-        "desc": "We raised $65,000 in donations to Covenant House, a Toronto-based charity for homeless youth. I served as project manager and lead engineer for architecting an Ethereum-donation leaderboard, complete with IRL light-up Xmas (Merkle) Tree. We went from idea to execution within 5 days.",
+        "title": "Merry Merkle",
+        "desc": "We raised $250,000 in donations to Covenant House, a Toronto-based charity for homeless youth. I served as project manager and lead engineer for architecting an Ethereum-backed donation leaderboard, complete with real light-up (Merkle) Xmas Tree. We went from idea to reality within 5 days.",
         "img": "merrymerkle.png",
         "link": "https:\/\/merrymerkle.com",
         "extra": [
